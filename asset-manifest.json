@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/himanshu.chanan.github.io/static/css/main.e8f376b9.chunk.css",
+    "main.js": "/himanshu.chanan.github.io/static/js/main.1d5769d0.chunk.js",
+    "main.js.map": "/himanshu.chanan.github.io/static/js/main.1d5769d0.chunk.js.map",
+    "runtime-main.js": "/himanshu.chanan.github.io/static/js/runtime-main.3f933c0e.js",
+    "runtime-main.js.map": "/himanshu.chanan.github.io/static/js/runtime-main.3f933c0e.js.map",
+    "static/js/2.b8872bcd.chunk.js": "/himanshu.chanan.github.io/static/js/2.b8872bcd.chunk.js",
+    "static/js/2.b8872bcd.chunk.js.map": "/himanshu.chanan.github.io/static/js/2.b8872bcd.chunk.js.map",
+    "index.html": "/himanshu.chanan.github.io/index.html",
+    "precache-manifest.0c46174a4e89099607c41a5b3f01d610.js": "/himanshu.chanan.github.io/precache-manifest.0c46174a4e89099607c41a5b3f01d610.js",
+    "service-worker.js": "/himanshu.chanan.github.io/service-worker.js",
+    "static/css/main.e8f376b9.chunk.css.map": "/himanshu.chanan.github.io/static/css/main.e8f376b9.chunk.css.map",
+    "static/js/2.b8872bcd.chunk.js.LICENSE.txt": "/himanshu.chanan.github.io/static/js/2.b8872bcd.chunk.js.LICENSE.txt",
+    "static/media/hero.scss": "/himanshu.chanan.github.io/static/media/hero-bg.fd88e2ed.png",
+    "static/media/my-hero-img.png": "/himanshu.chanan.github.io/static/media/my-hero-img.2a44e5ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f933c0e.js",
+    "static/js/2.b8872bcd.chunk.js",
+    "static/css/main.e8f376b9.chunk.css",
+    "static/js/main.1d5769d0.chunk.js"
+  ]
+}
